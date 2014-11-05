@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+Fichier texte pour les points 3 et 4 pour modification.
+Voici une nouvelle ligne et la modification du numéro des questions
+=======
 ﻿Fichier texte pour les points 3 et 4 pour modification.
 Chut, vous faites n'importe quoi de toute façon
+>>>>>>> 4dfc2dd0e50b6ede811a40b80f49689596850dd0
