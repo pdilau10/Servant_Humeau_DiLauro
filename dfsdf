@@ -1,0 +1,330 @@
+[33mcommit ca01c1a13dd9c1f7d9834dd0caed5ad6486f6a53[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 17:04:04 2014 +0100
+
+    Finalement, je supprime new.txt car inutile
+
+[33mcommit a94558a3f5e38638b91a5dcc532679e4325b0859[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 16:59:14 2014 +0100
+
+    aJOUT DE NEW;TXT SUR MA NOUVELLE BRANCHE
+
+[33mcommit 92a3b9950990b76fe3cf3d9a3f8e558186581831[m
+Merge: 01aa912 ef851c8
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 16:51:56 2014 +0100
+
+    Merge remote-tracking branch 'pdilau10/master'
+
+[33mcommit 01aa9122fe7a3a65f1e038f4726224fcd09951b3[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 16:47:09 2014 +0100
+
+    Changement de nom de fichier
+
+[33mcommit ef851c8a12c879e68770eb85b1186787df0296ed[m
+Merge: 864cfc6 4dfc2dd
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 16:29:18 2014 +0100
+
+    Commit pour rsolution conflit pour pull
+
+[33mcommit 864cfc60c2e940ad27607c2a2ec1579db4816d8c[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:44:03 2014 +0100
+
+    Conflit de Nico
+
+[33mcommit f99975d243f7d4150089d0026a5156984374462f[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 15:34:44 2014 +0100
+
+    De nouveaux documents !
+
+[33mcommit 65ef108f126395992d72682e521f6ef33b34a9d6[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:32:39 2014 +0100
+
+    Modification pour vrai conflit
+
+[33mcommit e50a26ae8412b171bf90d1a075c60aa5c14feffc[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:23:54 2014 +0100
+
+    Modification pour conflit
+
+[33mcommit aa93e7320d8029892f58a1e8b271131a56ecacbd[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 15:22:31 2014 +0100
+
+    Bon, j'ai supprimé le fichier vu qu'il était nul
+
+[33mcommit 2e4801fbb4e6b686b61e511e729836dba4474a9a[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 15:15:24 2014 +0100
+
+    Bonjour, voici le fichier Salutations.txt
+
+[33mcommit be61dd9513594a55424b91496bf58b88f3dcbfbe[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 14:47:55 2014 +0100
+
+    Suppression d'un fichier sur la branche
+
+[33mcommit 095659dcd9b2034f6c329ad04a003e319ea0fbad[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:42:03 2014 +0100
+
+    Ajout du fichier branchePierre2.txt
+
+[33mcommit 104290306d4cd493e9762af8d44610ca170e8e44[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:40:27 2014 +0100
+
+    Modification du fichier branchePierre.txt
+
+[33mcommit bbbff6485af76a2b3556b909d2773b8bc17e6111[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 14:33:55 2014 +0100
+
+    Ajout d'un nouveau fichier et ajout d'une ligne sur la branche
+
+[33mcommit 41523e990a5f71b974b71fadde0dc690d35ae435[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 16:23:02 2014 +0100
+
+    Commit pour le Rebase
+
+[33mcommit 1688448759ecff8c35e414a89617ddd15f2509a8[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 16:09:26 2014 +0100
+
+    Modifications effectuées !
+    
+    t   (use "git push" to publish your local commits)
+
+[33mcommit 4dfc2dd0e50b6ede811a40b80f49689596850dd0[m
+Merge: b44c8d1 a7a8368
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 16:02:16 2014 +0100
+
+    Merge remote-tracking branch 'pdilau10/master'
+
+[33mcommit a7a8368b06aa962e4a7e0421ce5b785e2da46712[m
+Merge: a65a925 58749bb
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 15:55:50 2014 +0100
+
+    Merge branch 'oldVersionConflit'
+    
+    Conflicts:
+    	PierreDirectory/branchePierre2.txt
+
+[33mcommit a65a925af0fe8642631e73bbc29c821d220b07a3[m
+Merge: 9620e51 b2612b0
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:47:34 2014 +0100
+
+    Merge branch 'master' of https://github.com/pdilau10/Servant_Humeau_DiLauro
+
+[33mcommit 58749bbcde994f645ca06fd9767dce858a641573[m
+Merge: a3a5972 1b8d029
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 15:46:41 2014 +0100
+
+    Merge branch 'master' into oldVersionConflit
+
+[33mcommit 9620e51d2b683c82a6b31e3a66b657efacf1339b[m
+Merge: 00874d8 17d5c8e
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:45:51 2014 +0100
+
+    Merge branch 'branche-pour-pierre'
+
+[33mcommit b44c8d1f57214daf6ee3963fd8ebc90218e6393b[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 15:45:47 2014 +0100
+
+    J'ai modifié un fichier : Q1et10PierreDiLauro
+
+[33mcommit a3a5972d130982ce79d20c7d4f79dd81c47d0634[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 15:44:29 2014 +0100
+
+    conflit de pierre
+
+[33mcommit 17d5c8e275d9b23f728222cb7d9f2c703778f96b[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:44:03 2014 +0100
+
+    Conflit de Nico
+
+[33mcommit b2612b05a99beacfb9dacd737a58b9946a0a29d2[m
+Merge: e9db090 00874d8
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 15:42:09 2014 +0100
+
+    Merge remote-tracking branch 'pdilau10/master'
+
+[33mcommit e9db090d31a70967197210dd85be29e3d3647e15[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 15:34:44 2014 +0100
+
+    De nouveaux documents !
+
+[33mcommit 00874d844ca9be5262e384f377610a8cf154517c[m
+Merge: 1b8d029 a33b9af
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:33:28 2014 +0100
+
+    Merge branch 'branch-nico-conflit2'
+
+[33mcommit a33b9affa650a1639f408cda7eac4b23045df1a7[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:32:39 2014 +0100
+
+    Modification pour vrai conflit
+
+[33mcommit 1b8d029b7aafc9d2f0e04f7894672a258f9d18af[m
+Merge: aad9e92 25e93ce
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:28:55 2014 +0100
+
+    Merge branch 'branch-nico-conflit'
+
+[33mcommit 25e93ce50ec7ed24aef4549a03d3349fa45fa85b[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:23:54 2014 +0100
+
+    Modification pour conflit
+
+[33mcommit 53334b0be778e44debe7203d2009b410481524fd[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 15:22:31 2014 +0100
+
+    Bon, j'ai supprimé le fichier vu qu'il était nul
+
+[33mcommit df1dc42a051ffb4938993f06f4e9801d131be13d[m
+Author: lalala17 <FServantmacada@gmail.com>
+Date:   Wed Nov 5 15:15:24 2014 +0100
+
+    Bonjour, voici le fichier Salutations.txt
+
+[33mcommit aad9e92ac74463f314c0e4a115020ce315c36e59[m
+Merge: cd3d71a abc4912
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 15:10:38 2014 +0100
+
+    Merge branch 'branch-nico'
+
+[33mcommit abc491209b90f5cd1e75dd2d070d7ebff7a6ec51[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 14:47:55 2014 +0100
+
+    Suppression d'un fichier sur la branche
+
+[33mcommit cd3d71a2006611ae8323fe81071af8a88e0cdc10[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:42:03 2014 +0100
+
+    Ajout du fichier branchePierre2.txt
+
+[33mcommit 4af0718cdaeb86ee2a17d5cc1cbfad2cb00c0d3a[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:40:27 2014 +0100
+
+    Modification du fichier branchePierre.txt
+
+[33mcommit 4293afd1f9994972c899b3c338264d7663252167[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 14:33:55 2014 +0100
+
+    Ajout d'un nouveau fichier et ajout d'une ligne sur la branche
+
+[33mcommit 96d8d7e759cfb48c7847be9071f177d18573cd49[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:28:33 2014 +0100
+
+    Creation de la branche et ajout d'un fichier à la branche
+
+[33mcommit 58748a9fbc84f82fbd591cac659020823033c42d[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:23:28 2014 +0100
+
+    Fichier Q3et4 deplacé dans PierreDirectory
+
+[33mcommit 76f8f9c859d610b04da193a57553b022c474380b[m
+Merge: e366883 7bda289
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:22:28 2014 +0100
+
+    Merge branch 'master' of https://github.com/pdilau10/Servant_Humeau_DiLauro
+
+[33mcommit 7bda289b7c6f1fa7b04363270b98b663fa5ccd0b[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 14:22:09 2014 +0100
+
+    Modification du directory et ajout d'un nouveau fichier
+
+[33mcommit e36688335b5549df87142f1a85982a135ee94955[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:22:05 2014 +0100
+
+    Modification du nom du fichier
+
+[33mcommit c920d8e270af93d7c50b39f08a5cafbc7536077a[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:20:43 2014 +0100
+
+    Modification du fichier Q1et2
+
+[33mcommit 2184cb47175accaa4d67d5be633b9a12fbe519dd[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:14:44 2014 +0100
+
+    Ajout du fichier Q1et2 pour question 3 et 4 (modification du fichier, du nom, du dossier...)
+
+[33mcommit a894905054341840cddf9ca38e4b9b459e57ff28[m
+Merge: d9e8704 22b6032
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:13:42 2014 +0100
+
+    Merge branch 'master' of https://github.com/pdilau10/Servant_Humeau_DiLauro
+
+[33mcommit d9e870425ff934d9e002394b245e27d245077a2e[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:13:11 2014 +0100
+
+    Suppression du fichier pour la question 2
+
+[33mcommit 22b6032470b3c38647889ebc868f783c32faed97[m
+Merge: 9ab10ea 61350c8
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 14:12:51 2014 +0100
+
+    Merge branch 'master' of https://github.com/pdilau10/Servant_Humeau_DiLauro
+
+[33mcommit 61350c8047a4dfd6b059154f694a843e0e0c13e9[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:09:29 2014 +0100
+
+    Ajout du fichier pour la question 1
+
+[33mcommit 9ab10ea621f8a254866e595a53cd9541aabaf22e[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 14:08:59 2014 +0100
+
+    Modif du Readme par Nico
+
+[33mcommit e010f7bd1bc7e48e7d81e0359af364add85d0761[m
+Author: Nicolas Humeau <nicolas.humeau@gmail.com>
+Date:   Wed Nov 5 14:07:20 2014 +0100
+
+    Ajout du README par Nico
+
+[33mcommit dcc3b10f340073b5772d1495ceb651621577b13e[m
+Author: pdilau10 <pierre.di.lauro@gmail.com>
+Date:   Wed Nov 5 14:03:22 2014 +0100
+
+    first commit
