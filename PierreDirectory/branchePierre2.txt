@@ -1,1 +1,6 @@
-Nouveau fichier sur la branche branchePierre
+<<<<<<< HEAD
+Conflit de Nico
+=======
+Conflit de Nico
+
+>>>>>>> 4dfc2dd0e50b6ede811a40b80f49689596850dd0
